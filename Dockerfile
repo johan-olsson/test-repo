@@ -6,4 +6,4 @@ RUN npm install
 
 EXPOSE 3000
 
-ENTRYPOINTY ["node", "./"]
+ENTRYPOINT ["node", "./"]
